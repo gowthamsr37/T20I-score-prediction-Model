@@ -1,2 +1,2 @@
-# T20I-score-prediction-Model
-In this project we will predict the total runs for a team at the end of 20 overs, based on the current match situation
+In this project we will predict the score at the end of a T20 Innings with Machine Learning Concept.
+We are taking the historical T20I data and based on the current match situation, the score will be predicted
